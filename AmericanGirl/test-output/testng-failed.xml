@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.TestCases.BuyFurnitureAsGuestUser">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="selectingProduct"/>
+          <include name="closure"/>
+          <include name="shippingAddress"/>
+          <include name="addingToBag"/>
+        </methods>
+      </class> <!-- com.TestCases.BuyFurnitureAsGuestUser -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

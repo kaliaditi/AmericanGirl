@@ -1,0 +1,16 @@
+2018-05-31 12:52:33,239 +0530 [main] DEBUG (Log1.java:73) - driver is ready to execute
+2018-05-31 12:52:57,934 +0530 [main] INFO  (Log1.java:49) - on shop tab clicked
+2018-05-31 18:18:28,194 +0530 [main] DEBUG (Log1.java:72) - driver is ready to execute
+2018-05-31 18:18:57,198 +0530 [main] INFO  (Log1.java:48) - on shop tab clicked
+2018-05-31 18:19:20,753 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-31 18:19:20,756 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-31 18:19:20,760 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-31 18:19:20,763 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-31 18:19:20,765 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArvindKumar/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-05-31 18:22:06,985 +0530 [main] DEBUG (Log1.java:72) - driver is ready to execute
+2018-05-31 18:22:38,568 +0530 [main] INFO  (Log1.java:48) - on shop tab clicked
+2018-05-31 18:24:18,197 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-05-31 18:24:18,200 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-05-31 18:24:18,204 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-05-31 18:24:18,207 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-05-31 18:24:18,209 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ArvindKumar/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
